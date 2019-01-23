@@ -1,2 +1,2 @@
 # app-giggog
-app-giggog
+app-giggog simple
